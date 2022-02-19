@@ -26,6 +26,8 @@
 
 - **The data is then visualized using Google API's.**
 
+![map (1)](https://user-images.githubusercontent.com/91576834/154822272-973bdbcd-e10c-44db-b7e8-bb0de442f694.png)
+
 ## **Resources**
 
 - **Software: Python, JupyterLab**
