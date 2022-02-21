@@ -6,7 +6,7 @@
 
 **Creating python script for a hypothetical betaApp meant to provide recommendations for hotel/lodging suggestions for a comapny based on user_end provided criteria.**
 
-**[Weather_Database](Weather_Database)**
+## **[Weather_Database](Weather_Database)**
 
 - **The [numpy module](https://github.com/numpy/numpy) was used to generate 2,000 latitudes and longitude combinations**
 
@@ -14,13 +14,13 @@
 
 - **The [Open Weather Map API](https://openweathermap.org/api) was also used to retrieve up-tp-date weather data for the provided cities**
 
-**[Vacation_Search](Vacation_Search)**
+## **[Vacation_Search](Vacation_Search)**
 
 - **The weather data from the [Weather_Database](Weather_Database) is parsed, formatted and visualized with Google Maps API's**
 
 - **The focus of these visualizations are markers and up to date pop-up markers with information dispalyed by category**
 
-**[Vacation_Itinerary](Vaction_Itinerary)**
+## **[Vacation_Itinerary](Vaction_Itinerary)**
 
 - **The same data form the Vacation_Search is further filtered down by a "trip/itinerary" criteria.**
 
