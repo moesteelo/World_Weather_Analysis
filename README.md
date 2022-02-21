@@ -16,7 +16,7 @@
 
 **[Vacation_Search](Vacation_Search)**
 
-- **The weather data from the [Weather_Database](Weather_Database) is parsed, formattedm and visualized with Google Maps API's**
+- **The weather data from the [Weather_Database](Weather_Database) is parsed, formatted and visualized with Google Maps API's**
 
 - **The focus of these visualizations are markers and up to date pop-up markers with information dispalyed by category**
 
